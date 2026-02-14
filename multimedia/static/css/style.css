@@ -227,6 +227,7 @@ progress {
   background-color: #efe6dc;
   min-height: 100vh;
   width: 100%;
+  font-family:"Montserrat", sans serif;
 
   a {
     background-color: rgb(29, 27, 27);
